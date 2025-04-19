@@ -17,5 +17,9 @@
 -
 ![](images/flickr-doc001.png)
 
-  
+---
+> uv run ../flickr-page-v0.3.py
+-
+![](images/flickr-doc002.png)
+ 
 
