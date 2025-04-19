@@ -1,5 +1,5 @@
 # flickr-img
-## 這是一隻用來抓flickr圖片的程式，可以抓一些"所有相片"與"博覽館"的圖片
+## 這是一隻用來抓flickr圖片的程式，可以抓"所有相片"與"博覽館"的圖片
 
 1. 利用下列命令取得uv.exe工具
 > python -m pip install uv
