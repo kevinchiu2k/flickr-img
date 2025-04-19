@@ -10,18 +10,19 @@
 - ![](images/google-version.png)
 4. 使用下面命令編譯程式,先進入工作目錄project
 > cd project
-- 加入第三方套件
+5. 加入第三方套件
 > uv add requests bs4 selenium
 - 這支程式為抓取flickr的“博覽館“和"所有相片"連結的圖片，(例如：到作者的"所有相片"、"博覽館"的取得連結)
 - ![](images/flickr003.png)
-- 輸入下面命令做編譯
+6. 輸入下面命令做編譯
 > uv run ../flickr-page-v0.3.py
 -
 ![](images/flickr-doc001.png)
 
 ---
-> uv run ../flickr-page-v0.3.py
--
+6. 輸入下面命令編譯
+> uv run ../flickr-expo-v0.2.py
+- 
 ![](images/flickr-doc002.png)
  
 
