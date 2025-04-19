@@ -2,11 +2,11 @@
 
 
 1. 利用下列命令取得uv.exe工具
-  - python -m pip install uv
+> python -m pip install uv
 2. 利用下面命令建立工作目錄project
-  - uv init project
+> uv init project
 3. 打開google瀏覽器用下列命令找到google chrome的版本，根據版本號下載將webdriver的安裝包，然後解壓縮將其中的chrome.exe檔按複製到根目錄 (注意：本目錄使用為自己的google瀏覽器版本)
-- chrome://version
+> chrome://version
 - ![](images/google-version.png)
 4. 使用下面命令編譯程式,先進入專案目錄project
 > cd project
