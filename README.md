@@ -5,4 +5,5 @@
 2. 利用下面命令建立工作目錄project
   uv init project
 3. 打開google瀏覽器用chrome://version 查看版本，根據版本號找到google webdrive(chrome.exe)
-，將chrome.exe下載到根目錄
+，將chrome.exe下載到根目錄 (注意：本目錄使用為自己的google瀏覽器版本)
+
