@@ -14,13 +14,13 @@
 > uv add requests bs4 selenium
 - 這支程式為抓取flickr的“博覽館“和"所有相片"連結的圖片，(例如：到作者的"所有相片"、"博覽館"的取得連結)
 - ![](images/flickr003.png)
-6. 輸入下面命令做編譯
+6. 輸入下面命令做編譯 （for 所有圖片）
 > uv run ../flickr-page-v0.3.py
 -
 ![](images/flickr-doc001.png)
 
 ---
-6. 輸入下面命令編譯
+6. 輸入下面命令編譯 (for 博覽館)
 > uv run ../flickr-expo-v0.2.py
 - 
 ![](images/flickr-doc002.png)
