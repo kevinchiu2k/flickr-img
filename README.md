@@ -7,6 +7,6 @@
   - uv init project
 3. 打開google瀏覽器用下列命令查看版本，根據版本號找到google webdrive(chrome.exe)，，將chrome.exe下載到根目錄 (注意：本目錄使用為自己的google瀏覽器版本)
 - chrome://version 
-4. 使用下面命令編譯程式,這支程式為抓取“博覽館“和"所有相片"連結的圖片(例如：到作者的"所有相片"，"博覽館"的連結) 
+4. 使用下面命令編譯程式,這支程式為抓取“博覽館“和"所有相片"連結的圖片([例如：到作者的"所有相片"，"博覽館"的取得連結](images/flickr001.png)) 
 - uv run flickr-expo-v0.2.py
 
