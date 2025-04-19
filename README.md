@@ -8,11 +8,11 @@
 3. 打開google瀏覽器用下列命令找到google chrome的版本，根據版本號下載將webdriver的安裝包，然後解壓縮將其中的chrome.exe檔按複製到根目錄 (注意：本目錄使用為自己的google瀏覽器版本)
 > chrome://version
 - ![](images/google-version.png)
-4. 使用下面命令編譯程式,先進入專案目錄project
+4. 使用下面命令編譯程式,先進入工作目錄project
 > cd project
 - 加入第三方套件
 > uv add requests bs4 selenium
-- 這支程式為抓取“博覽館“和"所有相片"連結的圖片，(例如：到作者的"所有相片"、"相片"、"博覽館"的取得連結) ![](images/flickr003.png)
+- 這支程式為抓取flickr的“博覽館“和"所有相片"連結的圖片，(例如：到作者的"所有相片"、"相片"、"博覽館"的取得連結) ![](images/flickr003.png)
 > uv run flickr-page-v0.2.py
 
   
