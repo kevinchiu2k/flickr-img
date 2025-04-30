@@ -18,11 +18,12 @@
 > uv run ../flickr-page-v0.3.py
 -
 ![](images/flickr-doc001.png)
+<img src='images/flickr-doc001.png' width='600'>
 
 ---
 6. 輸入下面命令編譯 (for 博覽館)
 > uv run ../flickr-expo-v0.2.py
 - 
 ![](images/flickr-doc002.png)
- 
+<img src='images/flickr-doc002.png' width='600'> 
 
