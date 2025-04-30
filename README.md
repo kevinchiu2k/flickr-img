@@ -17,11 +17,11 @@
 6.1 輸入下面命令做編譯 （for 所有相片）
 > uv run ../flickr-page-v0.3.py
 -
-<img src='images/flickr-doc001.png' width='700'>
+<img src='images/flickr-doc001.png' width='800'>
 
 ---
 6.2 輸入下面命令編譯 (for 博覽館)
 > uv run ../flickr-expo-v0.2.py
 - 
-<img src='images/flickr-doc002.png' width='700'> 
+<img src='images/flickr-doc002.png' width='800'> 
 
