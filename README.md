@@ -13,7 +13,7 @@
 5. 加入第三方套件
 > uv add requests bs4 selenium
 - 這支程式為抓取flickr的“所有相片"所有相片"和"博覽館“連結的圖片，(例如：到作者的"所有相片"、"博覽館"的取得連結)
-- 收尋 flickr.com
+- 收尋 flickr.com/explore
 <img src='images/flickr-docA001.png' width='800'>
 - 找到其中的圖案，點選有"所有相片"或"博覽館"有圖片的項目，例如：選Landschaft 23
 - 
@@ -32,6 +32,8 @@
 6.2 輸入下面命令編譯 (for 博覽館)
 > uv run ../flickr-expo-v0.3.py
 <img src='images/flickr-docA005.png' width='800'>
+
+
 
 
 
