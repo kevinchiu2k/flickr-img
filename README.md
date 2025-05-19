@@ -1,5 +1,5 @@
 # flickr-img
-### 這是一隻用來抓flickr圖片的程式，可以抓"所有相片"與"博覽館"的圖片，下面是用vscode為例，在Terminal下示範如何編譯程式
+### 這是一隻用來抓flickr圖片的程式，可以抓"博覽館"的圖片，下面是用vscode為例，在Terminal下示範如何編譯程式
 
 1. 利用下列命令取得uv.exe工具
 > python -m pip install uv
