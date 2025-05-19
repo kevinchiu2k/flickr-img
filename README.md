@@ -18,15 +18,15 @@
 - 找到其中的圖案，點選有"所有相片"或"博覽館"有圖片的項目，選Landschaft 23
 - 
 <img src='images/flickr-docA002.png' width='800'>
-點選"返回瀏覽管清單"
+點選"返回博覽館清單"
 
 <img src='images/flickr-docA003.png' width='800'>
-點選"博覽館"
-----
+有兩支程式，點選"所有相片"與"博覽館"
+---
 6.1 輸入下面命令編譯 (for 所有相片)
 > uv run ../flickr-expo-v0.3.py
 <img src='images/flickr-docA004.png' width='800'>
-----
+---
 6.2 輸入下面命令編譯 (for 博覽館)
 > uv run ../flickr-expo-v0.3.py
 <img src='images/flickr-docA005.png' width='800'>
