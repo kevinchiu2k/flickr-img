@@ -25,7 +25,7 @@
 
 ---
 6.1 輸入下面命令編譯 (for 所有相片)
-> uv run ../flickr-expo-v0.3.py
+> uv run ../flickr-page-v0.3.py
 <img src='images/flickr-docA004.png' width='800'>
 
 ---
