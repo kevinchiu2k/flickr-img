@@ -18,7 +18,7 @@
 - 找到其中的圖案，點選有"所有相片"或"博覽館"有圖片的項目，選Landschaft 23
 - 
 <img src='images/flickr-docA002.png' width='800'>
-點選"所有相片"
+點選"返回瀏覽管清單"
 
 <img src='images/flickr-docA003.png' width='800'>
 點選"博覽館"
