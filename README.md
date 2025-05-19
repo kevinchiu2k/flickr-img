@@ -22,10 +22,12 @@
 
 <img src='images/flickr-docA003.png' width='800'>
 有兩支程式，點選"所有相片"與"博覽館"
+
 ---
 6.1 輸入下面命令編譯 (for 所有相片)
 > uv run ../flickr-expo-v0.3.py
 <img src='images/flickr-docA004.png' width='800'>
+
 ---
 6.2 輸入下面命令編譯 (for 博覽館)
 > uv run ../flickr-expo-v0.3.py
