@@ -18,5 +18,7 @@
 ----
 6. 輸入下面命令編譯 (for 博覽館)
 > uv run ../flickr-expo-v0.2.py
-<img src='images/flickr-doc002.png' width='800'> 
+<img src='images/flickr-doc002.png' width='800'>
+
+
 
